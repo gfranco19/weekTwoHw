@@ -10,10 +10,6 @@ body {
 .top{
     
     background-color: olive;
-    width: 50%;
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-bottom: 50px;
 
     
 }
@@ -60,11 +56,33 @@ margin-right: 10px;
 }
 
 #bio {
-  
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
     margin-top: 10px;
     margin-bottom: 10px;
+    margin-right: 10px;
+    font-weight: bolder;
 }
 
+ul {
+    /* font-weight: bold; */
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
+}
+
+.credentials{
+    background-color: olive;
+   
+
+}
+li{
+    margin-right: 10px;
+}
+#credTitle{
+    color: honeydew;
+    margin-top: 20px;
+    flex: auto;
+}
 
 /* contact page*/
 
